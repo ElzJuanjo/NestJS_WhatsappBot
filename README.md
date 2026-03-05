@@ -391,7 +391,7 @@ content: null
 
 <!-- Adjunta aquí una captura de pantalla del bot en funcionamiento -->
 
-> 📸 *Captura pendiente.*
+![WhatsApp Image 2026-03-05 at 10 51 15 AM](https://github.com/user-attachments/assets/72b236c9-cb49-4d1a-85c1-f80efb47a809)
 
 ---
 
